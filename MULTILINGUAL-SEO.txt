@@ -1,0 +1,6 @@
+Languages: EN, ES, ZH-CN, KO, JA, RU, IT, DE, PT, ZH-TW, FR, TH, ID, MS-MY
+Pages per language: 11
+Total HTML pages: 154
+Canonical + hreflang + x-default implemented on every page.
+Sitemap includes all localized URLs.
+Resend/email delivery intentionally not connected.
